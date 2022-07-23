@@ -1,0 +1,1 @@
+![Blok-shema](Blok-shema.jpg)
